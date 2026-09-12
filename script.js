@@ -9,3 +9,20 @@
 // } else  {
 //     alert(`Seja bem vindo, ${nome}!`)
 // }
+
+// EXERCÍCIO 2 - Operações Matemáticas
+
+// let [num1, num2] = prompt ("Digite dois números separados por espaço:").split(" ")
+
+// num1 = Number(num1)
+// num2 = Number(num2)
+
+// let sum = num1 + num2
+// let sub = num2 - num1
+// let mul = num1 * num2
+// let div = num1 / num2
+
+// alert (`Soma: ${sum}`)
+// alert (`Subtração: ${sub}`)
+// alert (`Multiplicação: ${mul}`)
+// alert (`Divisão: ${div}`)
