@@ -26,3 +26,38 @@
 // alert (`Subtração: ${sub}`)
 // alert (`Multiplicação: ${mul}`)
 // alert (`Divisão: ${div}`)
+
+// EXERCÍCIO 3
+
+// let idade = Number(prompt("Qual é a sua idade?"))
+
+// if (idade < 18) {
+//     alert("Você é menor de idade.")
+// }
+// else {
+//     alert("Você é maior de idade.")
+// }
+
+// EXERCÍCIO 4
+
+// let numero = Number(prompt("Digite um número:"))
+
+// if (numero % 2 === 0) {
+//     alert("O número é par.")
+// }
+// else {
+//     alert("O número é ímpar.")
+// }
+
+// EXERCÍCIO 5
+
+// let [num1, num2, num3] = prompt("Digite três números separados por espaço:").split(" ");
+
+// num1 = Number(num1);
+// num2 = Number(num2);
+// num3 = Number(num3);
+
+// if (num1 , num2 , num3) {
+//     let maior = Math.max(num1, num2, num3);
+//     alert(`O maior número é: ${maior}`);
+// }
